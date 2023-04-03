@@ -31,7 +31,7 @@ Dividend
 <br>
 1. GET - finance/dividen/{companyName} 
 - Receives a company name as input and returns the company's meta information and dividend information
-- 잘Returns 400 status code and error message when wrong company name is input
+- Returns 400 status code and error message when wrong company name is input
 
 <br>
 
