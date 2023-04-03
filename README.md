@@ -16,9 +16,9 @@
 
 
 DB
-###Company
+Company
 ![image](https://user-images.githubusercontent.com/94863168/229596475-a4978324-782d-4340-bb45-e2827f98500f.png)
-###Dividend
+Dividend
 ![image](https://user-images.githubusercontent.com/94863168/229596489-744b9ebc-7683-4bad-936d-6c13eae2ba2e.png)
 
 <br>
